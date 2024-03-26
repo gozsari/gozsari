@@ -16,11 +16,18 @@ I'm a Research Engineer specializing in Data Science and Machine Learning at Cha
 ![](https://img.shields.io/badge/-Captum-black?style=flat-square&logo=pytorch)
 ![](https://img.shields.io/badge/-Scikit_learn-black?style=flat-square&logo=scikit-learn)
 
+
+## Top Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozsari&&layout=compact&show_icons=true&theme=onedark)](https://github.com/gozsari/github-readme-stats)
+
 ## 📈 GitHub Stats
 ![Gökhan Özsari's GitHub stats](https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight)
 
 
-## 📫 Connect with Me
+## 📫 Contact Me
+You can reach me via email at [gozsari@gmail.com](mailto:gozsari@gmail.com).
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gozsari)
 
 
