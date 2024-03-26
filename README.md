@@ -17,7 +17,7 @@ I'm a Research Engineer specializing in Data Science and Machine Learning at Cha
 ![](https://img.shields.io/badge/-Scikit_learn-black?style=flat-square&logo=scikit-learn)
 
 ## 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight) 
+![Gökhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gozsari)
