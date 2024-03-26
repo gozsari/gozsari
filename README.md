@@ -1,6 +1,6 @@
 # Hello, I'm Gökhan! 👋
 
-I'm a Research Engineer specializing in Data Science and Machine Learning at Chalmers University of Technology.
+I'm a Research Engineer specializing in Data Science and Machine Learning at Chalmers University of Technology. 
 
 ## 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
