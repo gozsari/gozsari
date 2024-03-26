@@ -20,7 +20,8 @@ I'm a Research Engineer specializing in Data Science and Machine Learning at Cha
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/gozsari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gozsari)
+
 
 
 
