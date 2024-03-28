@@ -26,8 +26,7 @@ I'm a Research Engineer specializing in Data Science and Machine Learning at Cha
 ## 📫 Contact Me
 You can reach me via email at [gozsari@gmail.com](mailto:gozsari@gmail.com).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gozsari)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gozsari) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4WdOLK8AAAAJ&hl=en&oi=ao) 
 
 
 
