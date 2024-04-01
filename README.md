@@ -2,7 +2,9 @@
 
 I'm a Research Engineer specializing in Data Science and Machine Learning at Chalmers University of Technology. 
 
-## 🛠 Technologies & Tools
+## 🛠 Technology Stack 
+Here is the technology stack I use in my projects:
+
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
@@ -18,6 +20,8 @@ I'm a Research Engineer specializing in Data Science and Machine Learning at Cha
 ![](https://img.shields.io/badge/-PyTorch_Geometric-black?style=flat-square&logo=pytorch)
 ![](https://img.shields.io/badge/-Captum-black?style=flat-square&logo=pytorch)
 ![](https://img.shields.io/badge/-Scikit_learn-black?style=flat-square&logo=scikit-learn)
+![](https://img.shields.io/badge/-WandB-black?style=flat-square&logo=wandb)
+![](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow)
 
 ## 📈 GitHub Stats
 ![Gökhan Özsari's GitHub stats](https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight)
