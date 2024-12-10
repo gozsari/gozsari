@@ -3,8 +3,10 @@
 I'm a Research Engineer specializing in Data Science and Machine Learning at Chalmers University of Technology. 
 
 ## Skills and Tools
+These are some of the tools and technologies that I work with in the projects that I am involved in.
 
-| Category                               | Tools                                                                                                                                                              |
+
+| Category                               | Tools & Technologies                                                                                                                                                           |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming Languages**              | ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B) ![](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) |
 | **Version Control and CI/CD**          | ![](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) ![](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions) |
