@@ -23,12 +23,6 @@ I'm a Research Engineer specializing in Data Science and Machine Learning at Cha
 ![Gökhan Özsari's GitHub stats](https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact Me
-You can reach me via email at [gozsari@gmail.com](mailto:gozsari@gmail.com).
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gozsari) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4WdOLK8AAAAJ&hl=en&oi=ao) 
-
-## 📫 Contact Me
 - 💌 Email: [gozsari@gmail.com](mailto:gozsari@gmail.com)
 - 🔗 LinkedIn: [Gökhan Özsari](https://www.linkedin.com/in/gozsari)
 - 📝 Google Scholar: [Publications](https://scholar.google.com/citations?user=4WdOLK8AAAAJ&hl=en&oi=ao)
