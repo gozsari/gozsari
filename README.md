@@ -61,7 +61,6 @@ Here are some of my tutorials prepared to help you get started with various tool
 
 ![Gökhan Özsari's GitHub stats](https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozsari&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=gozsari&theme=tokyonight)
 
 ---
 
