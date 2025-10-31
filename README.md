@@ -32,7 +32,7 @@ My personal interests include:
 | **Explainability Tools**              | ![](https://img.shields.io/badge/-SHAP-black?style=flat-square&logo=shap) ![](https://img.shields.io/badge/-LIME-black?style=flat-square&logo=lime) ![](https://img.shields.io/badge/-Captum-black?style=flat-square&logo=pytorch) |
 | **MLOps & Experiment Tracking**        | ![](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow) ![](https://img.shields.io/badge/-WandB-black?style=flat-square&logo=wandb) |
 | **Web & API Development**              | ![](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) ![](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit) |
-| **Containers & Automation**            | ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible) |
+| **Containers & Orchestration & Automation**            | ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes) ![](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible) |
 | **Databases**                          | ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) ![](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite) |
 | **Performance Testing**                | ![](https://img.shields.io/badge/-Locust-black?style=flat-square&logo=locust) |
 | **Active Learning Framework**          | ![](https://img.shields.io/badge/-modAL-black?style=flat-square) |
@@ -45,8 +45,8 @@ My personal interests include:
 - [**SLPred**](https://github.com/gozsari/SLPred) – Subcellular localization predictor using multi-view learning, [GitHub Repository](https://github.com/gozsari/SLPred), [Paper](https://academic.oup.com/bioinformatics/article/38/17/4226/6633921), [Website](https://slpred.kansil.org/) 
 - [Awesome GNN-based Drug Discovery](https://github.com/gozsari/Awesome-GNN-based-drug-discovery)
 - [Protein Feature Extraction Tool - ProtFeat](https://github.com/gozsari/protfeat)
-
-
+- [CAPIM](https://git.chalmers.se/ozsari/capim-app): Catalytic activity and site prediction and analysis tool in multimer proteins, [GitLab Repository](https://git.chalmers.se/ozsari/capim-app), [Website](https://capim-app.serve.scilifelab.se), [Paper](https://onlinelibrary.wiley.com/doi/10.1002/pro.70347)
+  
 ## 📚 Tutorials
 Here are some of my tutorials prepared to help you get started with various tools and technologies.
 
@@ -66,7 +66,7 @@ Here are some of my tutorials prepared to help you get started with various tool
 
 ## 📫 Let's Connect
 
-- 💌 Email: [gozsari@gmail.com](mailto:gozsari@gmail.com)
+- 💌 Email: [gozsari@gmail.com](mailto:gozsari@gmail.com), [gokhan.ozsari@chalmers.se](mailto:gokhan.ozsari@chalmers.se)
 - 🔗 LinkedIn: [linkedin.com/in/gozsari](https://www.linkedin.com/in/gozsari)
 - 📝 Google Scholar: [My Publications](https://scholar.google.com/citations?user=4WdOLK8AAAAJ&hl=en)
 
