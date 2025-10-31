@@ -45,7 +45,7 @@ My personal interests include:
 - [**SLPred**](https://github.com/gozsari/SLPred) – Subcellular localization predictor using multi-view learning, [GitHub Repository](https://github.com/gozsari/SLPred), [Paper](https://academic.oup.com/bioinformatics/article/38/17/4226/6633921), [Website](https://slpred.kansil.org/) 
 - [Awesome GNN-based Drug Discovery](https://github.com/gozsari/Awesome-GNN-based-drug-discovery)
 - [Protein Feature Extraction Tool - ProtFeat](https://github.com/gozsari/protfeat)
-- [CAPIM](https://git.chalmers.se/ozsari/capim-app): Catalytic activity and site prediction and analysis tool in multimer proteins, [GitLab Repository](https://git.chalmers.se/ozsari/capim-app), [Website](https://capim-app.serve.scilifelab.se), [Paper](https://onlinelibrary.wiley.com/doi/10.1002/pro.70347)
+- [**CAPIM**](https://git.chalmers.se/ozsari/capim-app) -Catalytic activity and site prediction and analysis tool in multimer proteins, [GitLab Repository](https://git.chalmers.se/ozsari/capim-app), [Website](https://capim-app.serve.scilifelab.se), [Paper](https://onlinelibrary.wiley.com/doi/10.1002/pro.70347)
   
 ## 📚 Tutorials
 Here are some of my tutorials prepared to help you get started with various tools and technologies.
