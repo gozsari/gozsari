@@ -33,7 +33,7 @@ My personal interests include:
 | **MLOps & Experiment Tracking**        | ![](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow) ![](https://img.shields.io/badge/-WandB-black?style=flat-square&logo=wandb) |
 | **Web & API Development**              | ![](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) ![](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit) |
 | **Containers & Orchestration & Automation**            | ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes) ![](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible) |
-| **Databases**                          | ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) ![](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite) |
+| **Databases**                          | ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)  |
 | **Performance Testing**                | ![](https://img.shields.io/badge/-Locust-black?style=flat-square&logo=locust) |
 | **Active Learning Framework**          | ![](https://img.shields.io/badge/-modAL-black?style=flat-square) |
 | **Identity & Access Management**       | ![](https://img.shields.io/badge/-Keycloak-black?style=flat-square&logo=keycloak) |
