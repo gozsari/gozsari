@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I’m a Research Engineer and Data Engineer with an academic background and over 10 years of experience across academia and research infrastructure. I currently contribute to large-scale life science data projects at Chalmers e-Commons and SciLifeLab DC. 
+I’m a Research Engineer and Data Engineer with an academic background and over 10 years of experience across academia and research infrastructure. I currently contribute to large-scale life science data projects at Chalmers e-Commons and SciLifeLab Data Centre. 
 
 My personal interests include:
 
