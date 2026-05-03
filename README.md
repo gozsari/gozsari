@@ -43,30 +43,13 @@ I'm a Research Engineer and Data Engineer with over 10 years of experience acros
 
 ## Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/gozsari/DTA-GNN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gozsari&repo=DTA-GNN&theme=tokyonight" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/gozsari/SLPred">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gozsari&repo=SLPred&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/gozsari/protfeat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gozsari&repo=protfeat&theme=tokyonight" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/gozsari/Awesome-GNN-based-drug-discovery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gozsari&repo=Awesome-GNN-based-drug-discovery&theme=tokyonight" />
-  </a>
-</p>
-
-> **DTA-GNN** — Target-specific drug-target affinity dataset builder & GNN trainer | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711026001639) | [Docs](https://dta-gnn.readthedocs.io)
->
-> **SLPred** — Subcellular localization predictor using multi-view learning | [Paper](https://academic.oup.com/bioinformatics/article/38/17/4226/6633921) | [Website](https://slpred.kansil.org/)
->
-> **CAPIM** — Catalytic activity and site prediction in multimer proteins | [GitLab](https://git.chalmers.se/ozsari/capim-app) | [Website](https://capim-app.serve.scilifelab.se) | [Paper](https://onlinelibrary.wiley.com/doi/10.1002/pro.70347)
+| Project | Description | Links |
+|---------|-------------|-------|
+| [**DTA-GNN**](https://github.com/gozsari/DTA-GNN) | Target-specific drug-target affinity dataset builder & GNN trainer | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711026001639) · [Docs](https://dta-gnn.readthedocs.io) |
+| [**SLPred**](https://github.com/gozsari/SLPred) | Subcellular localization predictor using multi-view learning | [Paper](https://academic.oup.com/bioinformatics/article/38/17/4226/6633921) · [Website](https://slpred.kansil.org/) |
+| [**CAPIM**](https://git.chalmers.se/ozsari/capim-app) | Catalytic activity and site prediction in multimer proteins | [Paper](https://onlinelibrary.wiley.com/doi/10.1002/pro.70347) · [Website](https://capim-app.serve.scilifelab.se) |
+| [**ProtFeat**](https://github.com/gozsari/protfeat) | Protein feature extraction tool for bioinformatics pipelines | [GitHub](https://github.com/gozsari/protfeat) |
+| [**Awesome GNN Drug Discovery**](https://github.com/gozsari/Awesome-GNN-based-drug-discovery) | Curated list of GNN-based drug discovery resources | [GitHub](https://github.com/gozsari/Awesome-GNN-based-drug-discovery) |
 
 ---
 
