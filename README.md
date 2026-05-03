@@ -66,9 +66,9 @@ Hands-on tutorials to help you get started with various tools and technologies.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gozsari&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gozsari&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=gozsari&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=gozsari&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gozsari&theme=tokyonight)
 
 ---
 
