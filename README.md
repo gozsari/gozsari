@@ -66,14 +66,9 @@ Hands-on tutorials to help you get started with various tools and technologies.
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gozsari&layout=compact&theme=tokyonight" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gozsari&theme=tokyonight" height="180" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gozsari&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gozsari&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gozsari&theme=tokyonight)
 
 ---
 
