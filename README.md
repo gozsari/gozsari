@@ -45,7 +45,7 @@ I'm a Research Engineer and Data Engineer with over 10 years of experience acros
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [**PocketDock**](https://github.com/gozsari/PocketDock) | A web-based platform that predicts druggable binding pockets, docks single ligands or whole libraries. | [GitHub](https://github.com/gozsari/PocketDock) |
+| [**PocketDock**](https://github.com/gozsari/PocketDock) | A web-based platform that predicts druggable binding pockets, docks single ligands or whole libraries. | [GitHub](https://github.com/gozsari/PocketDock) · [Docs](https://pocketdock.readthedocs.io) |
 | [**DTA-GNN**](https://github.com/gozsari/DTA-GNN) | Target-specific drug-target affinity dataset builder & GNN trainer | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711026001639) · [Docs](https://dta-gnn.readthedocs.io) |
 | [**SLPred**](https://github.com/gozsari/SLPred) | Subcellular localization predictor using multi-view learning | [Paper](https://academic.oup.com/bioinformatics/article/38/17/4226/6633921) · [Website](https://slpred.kansil.org/) |
 | [**CAPIM**](https://git.chalmers.se/ozsari/capim-app) | Catalytic activity and site prediction in multimer proteins | [Paper](https://onlinelibrary.wiley.com/doi/10.1002/pro.70347) · [Website](https://capim-app.serve.scilifelab.se) |
